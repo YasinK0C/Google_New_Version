@@ -18,6 +18,7 @@
 .headerli {
   margin-left: 150px; /* Her bir liste öğesinin arasında boşluk bırak */
 }
+
 .headerli a{
   display: block;
   color: black;
@@ -25,6 +26,7 @@
   padding: 5px 5px;
   text-decoration: none;
 }
+
 .headerli a:hover{
   text-decoration: underline;
 }
@@ -85,8 +87,6 @@ input:focus{
   font-size: 14px;
   margin-left: 14px;
   margin-right: -20px;
-  
-
 }
 
 .footerli a:hover{
@@ -98,7 +98,6 @@ input:focus{
   width: 100%;
   align-items: center;
   justify-content: center;
-
 }
 
 .input-box {
