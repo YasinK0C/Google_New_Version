@@ -6,7 +6,7 @@ Home Work CSS patika.dev
 
 Click to visit profile Patika
 
-https://app.patika.dev/ysnkoc
+https://academy.patika.dev/@ysnkoc
 
 Click to visit profile GitHub
 
